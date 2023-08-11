@@ -1,4 +1,4 @@
-FROM ubuntu:jammy-20230425
+FROM ubuntu:kinetic
 
 ADD setup.sh /setup.sh
 ADD get-jdk-url.sh /get-jdk-url.sh
